@@ -1,0 +1,19 @@
+body{
+background-image: url(banner.jpg);
+}
+.top{
+height: 100px;
+}
+.main{
+	height: 500px;
+}
+.small{
+	height: 50px;
+}
+.textsmall{
+	font-size: 13px;
+}
+.b{
+	background: black;
+	color: white;
+}
